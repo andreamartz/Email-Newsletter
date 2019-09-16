@@ -11,7 +11,7 @@ Our newsletter was designed for a fictional community food pantry.  The purpose 
 
 ## Project Image
 
-<img src="https://i.imgur.com/AGVOrnW.png" height="800px" align="center">
+<img src="https://i.imgur.com/AGVOrnW.png?2" height="800px" align="center">
 
 
 ## Contact
