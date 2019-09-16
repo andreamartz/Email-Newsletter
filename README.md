@@ -18,7 +18,8 @@ INSERT IMAGE HERE
 ## Contact
 
 
-Amy McGowan - [@](https://twitter.com/)
+Amy McGowan - [@_amymcgowan](https://twitter.com/)
+
 Andrea Martz - [@amartzcoder](https://twitter.com/amartzcoder)
 
 Project Link: [https://github.com/andreamartz/Email-Newsletter](https://github.com/andreamartz/Email-Newsletter)
