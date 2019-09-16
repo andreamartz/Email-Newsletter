@@ -14,7 +14,6 @@ Our newsletter was designed for a fictional community food pantry.  The purpose 
 
 INSERT IMAGE HERE
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ## Contact
 
