@@ -9,11 +9,9 @@ This email newsletter was designed and built collaboratively by Amy McGowan and 
 Our newsletter was designed for a fictional community food pantry.  The purpose of the newsletter is to engage community members and show them the ways that they can make a difference for their neighbors in need.
 
 
-## Project Snapshot
+## Project Image
 
-Full project can be found at [https://andreamartz.github.io/Email-Newsletter/](https://andreamartz.github.io/Email-Newsletter/)
-
-![project image](https://i.imgur.com/DNx8Tmw.png)
+<img src="https://i.imgur.com/CE4VsfK.png?1" height="800px" align="center">
 
 
 ## Contact
